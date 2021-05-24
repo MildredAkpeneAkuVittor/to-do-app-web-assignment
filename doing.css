@@ -1,0 +1,49 @@
+body{
+    background-color: #dc143c;
+}
+
+    
+
+.lists{
+    list-style: none;
+    padding: 100px;
+    font-size: xx-large;
+
+}
+
+h1{
+    font-size: 50px;
+    font-style: italic;
+    text-align: center;
+   
+}
+ span{
+    font-size: 20px;
+    font-style:inherit;
+ }
+ .remove{
+     font-size: 20px;
+     font-style: italic;
+     border: 5px, solid;
+      }
+
+      .do{
+          border: solid 5px;
+          margin: 5px;
+          background-color: #dcdcdc ;
+      }
+      button{
+        background-color: #ff69B4;
+      border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 10px;
+    
+    }
+    button:hover{
+        background-color: indigo;
+    }
